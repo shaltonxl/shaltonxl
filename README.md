@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning **AWS,Docker,Jenkins**
 
-- 💬 Ask me about **Linux,Network**
+- 💬 Ask me about **Linux,Network,Terraform,Ansible,IT-Security**
 
 - 📫 How to reach me **grkmglr87@gmail.com**
 
